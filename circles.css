@@ -1,0 +1,22 @@
+canvas {
+	width: 100%;
+	height: 100%;
+	background: #63686e;
+}
+
+body, html {
+ height: 100%;
+ margin: 0;
+ background: #373640;
+}
+
+h3 {
+	text-align: center;
+	color: #7e97a6;
+	font-family: fa5-proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+ font-size: 17px;
+ line-height: 14px;
+ letter-spacing: 2px;
+ font-weight: bold;
+}
+
